@@ -1,4 +1,4 @@
-# Digital_Tech_Basic_Report_2Grd1Sem
-二年前期　ディジタル技術の基礎　実験レポート
+# Data_Structure_Algo_Report1_2Y1Sem
+二年前期　データ構造とアルゴリズム　レポート1
 
 ### メインファイル ----> main.tex
